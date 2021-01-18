@@ -11,8 +11,8 @@ I don't expect much if any readership, but I use 100% recycled electrons so
 that's OK.
 
 Nonetheless, I'll strive to be as intellectually honest as possible. The
-source of this blog is in a public Github repo, so any changes are publicly
-visible.
+source of this blog is in [a public Github repo](https://github.com/mutterc/fhblog),
+so any changes are publicly visible.
 
 I expect to change my mind every now and again while researching an article,
 and will write about that as well.
