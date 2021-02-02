@@ -14,7 +14,7 @@ of the results; these are all procedures I've personally done, at least 30
 times (though they have evolved somewhat over time).
 
 This post is only the info; I'll put my commentary on what these things imply
-in a follow-up post. The procedures are the same Wake County-wide, and most of
+in [a follow-up post]({filename}elex-procedures-1.md). The procedures are the same Wake County-wide, and most of
 them apply all across NC. I don't have direct knowledge of how absentee voting
 is processed (by-mail or early voting (one-stop)).
 
