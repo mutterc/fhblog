@@ -52,10 +52,6 @@ ideas for that in a future post.
 Existing government-funded drug research like the NIH isn't being counted here,
 because (I assume) it's also not counted in our $102 billion target.
 
-Source 1 puts the fraction of spending on name-brand drugs at just under
-80% for Medicare Part D and Medicaid. Source 5 says 80% also. So we can
-use a 75% factor to get a conservative estimate.
-
 Table 4 in the [CMS National Health Expenditures dataset](https://www.cms.gov/files/zip/nhe-tables.zip)
 lists prescription drug spending (not broken down by
 name-brand/generic) by source for 2019, in billions of dollars:
