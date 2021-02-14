@@ -1,5 +1,5 @@
 Title: About The Blog / Comments
-Date: 2021-01-16 16:00
+Date: 2021-02-13 22:00
 Slug: about-blog
 
 What's the deal with this blog?
@@ -28,5 +28,5 @@ There aren't any comments in the usual sense.
 Feedback is welcome, via email (<code>feedback</code> at
 <code>friendly</code>&#8203;
 <code>andhelpful.</code>&#8203;
-<code>com</code>) (not yet working), on your own
+<code>com</code>), on your own
 blog or social media. Email feedback might get published on this blog.
