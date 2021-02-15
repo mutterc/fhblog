@@ -104,5 +104,5 @@ much is left as an exercise for the reader.
 
 There are also no doubt lots of non-fiscal pluses and minuses to this
 approach (e.g. trading off "me-too" drugs for political dysfunction around
-funding); looking at those (and a transition) will be a future post.
+funding); looking at those (and a transition) will be [a future post]({filename}no-patents-pro-con.md).
 
