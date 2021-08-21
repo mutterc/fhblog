@@ -6,6 +6,11 @@ Slug: pay-for-new-drugs
 estat: Citations provided, but agrees with my worldview, so be suspicious
 Summary: Publicly fund drug R&D to save $37 billion a year, here's how.
 
+# Updates
+
+Spotted something like this in the wild, with a much bigger savings
+estimate - see [this post]({filename}drug-funding-update.md).
+
 # Background
 
 It's important to realize that high, uncontrolled prices for on-patent drugs
